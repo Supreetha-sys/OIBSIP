@@ -118,9 +118,3 @@ Customer segmentation was successfully performed using the K-Means Clustering al
 
 **Supreetha**  
 Aspiring Data Analyst
----
-
-## 👩‍💻 Author
-
-**Supreetha**  
-Aspiring Data Analyst
