@@ -66,7 +66,7 @@ The dataset contains information such as:
 ```
 Task1_EDA_on_Retail_Sales_Data/
 │── retail_sales_dataset.csv
-│── Supreetha_Task1_EDA.ipynb
+│── Supreetha_Task1.ipynb
 │── README.md
 ```
 
