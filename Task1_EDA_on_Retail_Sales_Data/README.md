@@ -94,11 +94,11 @@ Through this project, I learned how to:
 - Use Python libraries for data analysis
 
 
-## 📌 Conclusion
+## Conclusion
 The Retail Sales dataset was successfully analyzed using Exploratory Data Analysis techniques. The project identified customer trends, product performance, monthly sales patterns, and relationships between variables, providing valuable business insights for data-driven decision-making.
 
 
-## 👩‍💻 Author
+## Author
 
 **Supreetha**  
 Aspiring Data Analyst
