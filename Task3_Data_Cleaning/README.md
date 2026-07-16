@@ -65,7 +65,7 @@ The dataset contains passenger information such as:
 Task3_Data_Cleaning/
 │── Titanic-Dataset.csv
 │── Cleaned_Titanic_Dataset.csv
-│── Supreetha_Task3_Data_Cleaning.ipynb
+│── Supreetha_Task3.ipynb
 │── README.md
 ```
 
